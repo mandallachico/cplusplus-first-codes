@@ -2,7 +2,7 @@
 
 <h2>Session 1</h2>
 
-<h3>Episode 2 - Second contact:Snake? Nah, cool dinosaur.</h3>
+<h3>Episode 2 - Second contact: Snake? Nah, cool dinosaur.</h3>
 
 <b>What I did:</b>
 <p>Soon...</p>
