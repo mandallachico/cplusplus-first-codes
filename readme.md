@@ -1,4 +1,4 @@
-<h1>From deliveryman to frontend developer, the series.</h1>
+<h1>From deliveryman to developer, the series.</h1>
 
 <h2>Session 1</h2>
 
